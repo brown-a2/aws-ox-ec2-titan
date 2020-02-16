@@ -1,0 +1,15 @@
+{
+  "name": "ox-ec2-titan",
+  "version": "0.2.0",
+  "description": "nodejs aws es front",
+  "author": "seal",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "dependencies": {
+    "express": "*"
+  }
+}
